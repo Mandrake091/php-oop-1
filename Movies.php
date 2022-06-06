@@ -19,7 +19,7 @@ $Movies =[
         'title' => 'Shutter Island',
         'trama' =>
         "Rachel Salado, paziente del manicomio criminale sull'isola di Shutter, scompare all'improvviso. L'agente federale Teddy Daniels, affiancato dall'ufficiale Chuck Aule, deve indagare per risolvere il mistero.",
-        'color' => "#d1d1"
+        'color' => "#1aa"
     ]
 ]
 
